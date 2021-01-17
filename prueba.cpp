@@ -7,6 +7,7 @@ int main()
 			cout<<'*';
 		}
 		cout<<endl;
+	cout<<"Habia una rata llamada Walt";
 	}
 	return 0;
 }
